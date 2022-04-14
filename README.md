@@ -4,3 +4,5 @@
 and server.
 2. It accomplishes three main things in the handshake process:
   * Exchanging cipher suites and parameters
+  * Authenticating one or both parites
+  * Creating symmetric session keys
